@@ -1,0 +1,19 @@
+.fa-university{
+    font-size: 30px;
+    color: #ffa500ed;
+    }
+    .signup{
+        margin-right:20px;
+    }
+    .form{
+        margin-top:30px;
+    }
+    label{
+        font-weight: bold;
+    }
+    .btn-primary{
+    width: 125px;
+    border-color:#4caf50d4;
+    background-color: #4caf50d4;
+    border-radius: 20px;
+    }

@@ -1,0 +1,14 @@
+
+.image{
+    background-image: url('../../Assests/image/mydashimage.jpeg');
+    width: 1524px;
+    height: 607px;
+}
+.align{
+margin-left: 500px;
+margin-top: 157px;
+}
+.button{
+    color: crimson;
+    background-color: black;
+}

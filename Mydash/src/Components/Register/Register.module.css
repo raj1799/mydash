@@ -1,0 +1,28 @@
+.image{
+    background-image: url('../../Assests/image/mydashimage.jpeg');
+    background-position: center;
+}
+.form{
+    width: 450px;
+    opacity: 0.8;
+}
+.sign{
+    font-size: 2rem;
+}
+.button{
+    border-radius: 4px;
+    width: 201px;
+    margin-right: 221px;
+    background-color:blue;
+}
+.text2{
+margin-top: 420px;
+margin-left: 192px;
+
+}
+.text1{
+    margin-left: 29px;
+}
+.para{
+    font-size: small;
+}
